@@ -1,3 +1,4 @@
+/** DK **/
 import { LightningElement } from 'lwc';
 import {loadStyle} from 'lightning/platformResourceLoader'
 import fontawesome from '@salesforce/resourceUrl/fontawesome'
@@ -10,7 +11,7 @@ export default class MemoryGameLwc extends LightningElement {
     moves=0
     timerRef
     showCongratulations = false
-    cards= [
+     cards= [
         {id:1, listClass:"card", type:'diamond', icon:'fa fa-diamond'},
         {id:2, listClass:"card", type:'plane', icon:'fa fa-paper-plane-o'},
         {id:3, listClass:"card", type:'anchor', icon:'fa fa-anchor'},
