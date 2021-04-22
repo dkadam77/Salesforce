@@ -1,0 +1,2 @@
+"Problem","File","Severity","Line","Column","Rule","Description","URL","Category","Engine"
+"1","C:\Dhannajay\Personal\Salesforce_Workspace\LWC\force-app\main\default\lwc\memoryGameLWC\memoryGameLWC.js","2","6","17","files-must-compile","Parsing error: Unexpected token =",,"Scanner Internal","eslint"

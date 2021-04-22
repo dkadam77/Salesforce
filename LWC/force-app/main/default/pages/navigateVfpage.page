@@ -1,0 +1,7 @@
+<!--
+ - Created by 607206485 on 4/5/2021.
+ -->
+
+<apex:page id="navigateVfpage">
+    welcome to my VF page
+</apex:page>
